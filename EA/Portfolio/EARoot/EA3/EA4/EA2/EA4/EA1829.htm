@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>WebService</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA1830.png" usemap="#EA1830" border="0" />
+
+<MAP NAME="EA1830">
+<area shape="rect" coords="886,5,996,30" href="../../../../EA1/EA1.htm" target="_self">
+<area shape="rect" coords="611,501,997,607" href="./EA1/EA1848.htm" target="_self">
+<area shape="rect" coords="18,889,513,1073" href="./EA1/EA1847.htm" target="_self">
+<area shape="rect" coords="857,353,1002,464" href="./EA1/EA1846.htm" target="_self">
+<area shape="rect" coords="32,472,534,630" href="./EA1/EA1845.htm" target="_self">
+<area shape="rect" coords="577,889,1006,1021" href="./EA1/EA1844.htm" target="_self">
+<area shape="rect" coords="956,84,1159,194" href="./EA1/EA1841.htm" target="_self">
+<area shape="rect" coords="432,351,805,436" href="EA1839.htm" target="_self">
+<area shape="rect" coords="36,351,408,456" href="EA1838.htm" target="_self">
+<area shape="rect" coords="493,341,802,411" href="EA1840.htm" target="_self">
+<area shape="rect" coords="120,17,877,368" href="EA1837.htm" target="_self">
+<area shape="rect" coords="10,17,100,87" href="EA1836.htm" target="_self">
+<area shape="rect" coords="13,114,103,184" href="EA1835.htm" target="_self">
+<area shape="rect" coords="23,674,680,831" href="EA1833.htm" target="_self">
+<area shape="rect" coords="924,15,1214,271" href="EA1832.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">WebService : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/3/2018 9:58:41 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">5/3/2018 12:44:24 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">gcs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{6B8D1476-11D3-4d71-945D-872383C58D00}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

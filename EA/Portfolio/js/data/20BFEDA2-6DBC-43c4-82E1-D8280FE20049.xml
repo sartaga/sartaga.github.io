@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.9.2.3:1", "", "ITC Messaging System", "EARoot/EA9/EA2/EA3/EA2870.htm", "176.png", "2498", "0", "", "Package diagram0","{0DF6ADB2-923B-4b5a-B59A-67780DB442CB}");
+tocTab[tocTab.length] = new Array("0.9.2.3:2", "", "Base Stations", "EARoot/EA9/EA2/EA3/EA2873.htm", "118.png", "E30982", "0", "", "Part0","{CABEE67C-98BA-4a21-A7B7-6AA2ED75D57F}");
+tocTab[tocTab.length] = new Array("0.9.2.3:3", "", "Direct IP (Cell/Fiber)", "EARoot/EA9/EA2/EA3/EA2874.htm", "118.png", "E30983", "0", "", "Part0","{098A0DB7-B05E-4e3e-A355-471A1DE4B9D7}");
+tocTab[tocTab.length] = new Array("0.9.2.3:4", "", "ITC Messaging System", "EARoot/EA9/EA2/EA3/EA2875.htm", "10.png", "E30981", "0", "", "Component0","{53A48448-027D-4308-9387-AA31E3AB631F}");

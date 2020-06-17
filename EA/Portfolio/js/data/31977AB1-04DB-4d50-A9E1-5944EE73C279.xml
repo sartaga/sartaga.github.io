@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.8.1.2.1", "1", "Daily", "EARoot/EA2/EA8/EA1/EA2/EA1/EA535.htm", "4.png", "", "", "{407461B1-3BBB-456e-ADAF-C98C9DD9FC5A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8.1.2.2", "1", "Every10Min", "EARoot/EA2/EA8/EA1/EA2/EA2/EA762.htm", "4.png", "", "", "{2E87B6B8-5AD1-41b0-BF18-6898D87442A0}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8.1.2.3", "1", "Every5Min", "EARoot/EA2/EA8/EA1/EA2/EA3/EA773.htm", "4.png", "", "", "{D0D59CF8-4519-4911-B017-FAF7BB2F6FD4}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8.1.2.4", "1", "Monthly", "EARoot/EA2/EA8/EA1/EA2/EA4/EA926.htm", "4.png", "", "", "{FE60A797-16DB-4c23-8EC0-8D6546D0C7AA}", "Package");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.3.1.1:1", "", "DesignEngine", "EARoot/EA3/EA3/EA1/EA1/EA1460.htm", "175.png", "2515", "0", "", "Logical diagram0","{5D47703D-41BD-4044-B902-185EC500C0F5}");
+tocTab[tocTab.length] = new Array("0.3.3.1.1:2", "", "BaseAzureService", "EARoot/EA3/EA3/EA1/EA1/EA1463.htm", "5.png", "E31232", "0", "", "Class0","{FBB4C309-0714-4437-885B-8CC75DEC87F1}");
+tocTab[tocTab.length] = new Array("0.3.3.1.1:3", "", "DesignEngineAzureService", "EARoot/EA3/EA3/EA1/EA1/EA1464.htm", "5.png", "E31234", "0", "", "Class0","{A605E9EB-B3E1-4215-B18A-90B5A1844CD4}");
+tocTab[tocTab.length] = new Array("0.3.3.1.1:4", "", "IBaseAzureService", "EARoot/EA3/EA3/EA1/EA1/EA1465.htm", "8.png", "E31231", "0", "", "Interface0","{792B36E6-DC6E-4361-AE67-30A000E10B51}");

@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.3:1", "", "Core", "EARoot/EA7/EA3/EA2426.htm", "175.png", "2585", "0", "", "Logical diagram0","{A8FFD97D-2B83-4e67-A6AE-662E65E0A851}");
+tocTab[tocTab.length] = new Array("0.7.3:2", "", "BaseException", "EARoot/EA7/EA3/EA2430.htm", "5.png", "E32052", "0", "", "Class0","{FA02281A-DDEA-43cd-9C08-27E4EAE35D1D}");
+tocTab[tocTab.length] = new Array("0.7.3:3", "", "DataItem", "EARoot/EA7/EA3/EA2431.htm", "5.png", "E32057", "0", "", "Class0","{797B336C-C11E-460e-BF30-7406784AC97D}");
+tocTab[tocTab.length] = new Array("0.7.3:4", "", "ErrorMessage", "EARoot/EA7/EA3/EA2434.htm", "5.png", "E32054", "0", "", "Class0","{153510D3-B05F-4058-951E-5143D6E43EAA}");
+tocTab[tocTab.length] = new Array("0.7.3:5", "", "IDataItem", "EARoot/EA7/EA3/EA2435.htm", "8.png", "E32049", "0", "", "Interface0","{1D17CC4E-313A-47b0-B2E8-DE63D10882E3}");
+tocTab[tocTab.length] = new Array("0.7.3:6", "", "IErrorMessage", "EARoot/EA7/EA3/EA2436.htm", "8.png", "E32053", "0", "", "Interface0","{CF2EB74B-D12E-4a30-92D6-ED6A76931562}");
+tocTab[tocTab.length] = new Array("0.7.3:7", "", "ILogger", "EARoot/EA7/EA3/EA2437.htm", "8.png", "E32050", "0", "", "Interface0","{ABE9EE75-D5AC-44af-94DF-288EA43F0127}");
+tocTab[tocTab.length] = new Array("0.7.3:8", "", "LogException", "EARoot/EA7/EA3/EA2438.htm", "5.png", "E32056", "0", "", "Class0","{290426B5-A194-40ce-8517-3A406E282491}");
+tocTab[tocTab.length] = new Array("0.7.3:9", "", "Logger", "EARoot/EA7/EA3/EA2439.htm", "5.png", "E32058", "0", "", "Class0","{068C209D-76DE-4ace-A0B1-025EC1873887}");
+tocTab[tocTab.length] = new Array("0.7.3:10", "", "LogType", "EARoot/EA7/EA3/EA2441.htm", "247.png", "E32051", "0", "", "Enumeration0","{F61AB722-B5BE-417c-B6F7-CE9C740318EE}");
+tocTab[tocTab.length] = new Array("0.7.3.1", "1", "DI", "EARoot/EA7/EA3/EA1/EA2444.htm", "4.png", "", "", "{A40E2050-EB21-4363-8B98-8169F53D045B}", "Package");

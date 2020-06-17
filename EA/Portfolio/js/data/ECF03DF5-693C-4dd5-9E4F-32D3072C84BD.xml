@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.4.1.3.1:1", "", "Domain", "EARoot/EA3/EA4/EA1/EA3/EA1/EA1675.htm", "175.png", "2528", "0", "", "Logical diagram0","{8D5FBB81-B157-4d82-B41D-265287FF2288}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3.1:2", "", "IInventoryService", "EARoot/EA3/EA4/EA1/EA3/EA1/EA1678.htm", "8.png", "E31372", "0", "", "Interface0","{FC881654-4AED-4a05-9199-759DC8C6BD58}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3.1:3", "", "InventoryItem", "EARoot/EA3/EA4/EA1/EA3/EA1/EA1679.htm", "5.png", "E31373", "0", "", "Class0","{E2321EEF-6363-467c-86F8-56082B84CB75}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3.1:4", "", "InventoryItemId", "EARoot/EA3/EA4/EA1/EA3/EA1/EA1680.htm", "5.png", "E31374", "0", "", "Class0","{DDA9C5A2-27A9-4422-886B-E7CF4268999D}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3.1:5", "", "InventoryItemView", "EARoot/EA3/EA4/EA1/EA3/EA1/EA1681.htm", "5.png", "E31375", "0", "", "Class0","{9FC0D1DF-07A4-4713-AF09-6501CEB26F7F}");

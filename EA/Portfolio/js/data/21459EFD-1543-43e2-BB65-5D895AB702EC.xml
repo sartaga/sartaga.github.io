@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.1", "1", "Azure Components", "EARoot/EA3/EA1/EA1352.htm", "4.png", "", "", "{275EA2E0-E71F-4ee7-8876-D4708DA07E25}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2", "1", "Microservice Detail", "EARoot/EA3/EA2/EA1397.htm", "4.png", "", "", "{57B8BECE-23F8-4294-AC40-2D9EE37F7164}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3", "1", "Azure Code", "EARoot/EA3/EA3/EA1437.htm", "4.png", "", "", "{538CB07D-DC89-47a9-95D2-BE7C86E01F9E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4", "1", "Service Fabric Code", "EARoot/EA3/EA4/EA1609.htm", "4.png", "", "", "{38EB722D-814F-42d9-B2CE-E58836FE3E6E}", "Package");

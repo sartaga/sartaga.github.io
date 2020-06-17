@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.4.2:1", "", "Service Fabric Example", "EARoot/EA3/EA4/EA2/EA1769.htm", "175.png", "2541", "0", "", "Logical diagram0","{FB87FDC0-B703-4d6e-B594-8C5D54A59A4B}");
+tocTab[tocTab.length] = new Array("0.3.4.2.1", "1", "ActorBackendService", "EARoot/EA3/EA4/EA2/EA1/EA1786.htm", "4.png", "", "", "{C7D571C5-AEA7-4a68-94DD-3DCCDB83F719}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.2.2", "1", "StatefulBackendService", "EARoot/EA3/EA4/EA2/EA2/EA1799.htm", "4.png", "", "", "{285FBF42-90D7-4b73-B4E9-7B886F05017E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.2.3", "1", "StatelessBackendService", "EARoot/EA3/EA4/EA2/EA3/EA1818.htm", "4.png", "", "", "{98AC365F-3FF9-4c36-81B1-EF18F5496E2B}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.2.4", "1", "WebService", "EARoot/EA3/EA4/EA2/EA4/EA1831.htm", "4.png", "", "", "{B9D5EAA5-49E2-4956-B966-A80530E62429}", "Package");

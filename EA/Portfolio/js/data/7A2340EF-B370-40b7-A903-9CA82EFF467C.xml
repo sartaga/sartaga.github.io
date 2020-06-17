@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "UMLExamples", "EARoot/EA2/EA49.htm", "176.png", "2600", "0", "", "Package diagram0","{6C1786FB-54D6-4ed9-8662-620930EE02F1}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Azure Components", "EARoot/EA2/EA1/EA89.htm", "4.png", "", "", "{45E09756-B734-4de3-88DC-5663D5A0669C}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Processes", "EARoot/EA2/EA2/EA133.htm", "4.png", "", "", "{3AB48C37-41BB-4485-B9C2-99ADD883E8B5}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "ActivityFT", "EARoot/EA2/EA3/EA210.htm", "4.png", "", "", "{11F943D2-9E05-4856-A8FB-497EFC9DBE60}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "ActivityTag", "EARoot/EA2/EA4/EA271.htm", "4.png", "", "", "{9FD97CA8-4D6C-435e-8B0B-4AB70AB0D6F3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5", "1", "ArchitectureTag", "EARoot/EA2/EA5/EA315.htm", "4.png", "", "", "{52C19D22-E40D-4720-AA1A-D48CA84128CF}", "Package");
+tocTab[tocTab.length] = new Array("0.2.6", "1", "Microservice Detail", "EARoot/EA2/EA6/EA339.htm", "4.png", "", "", "{841A4802-010A-49c8-B88E-D78265A7FDE1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.7", "1", "DDD", "EARoot/EA2/EA7/EA379.htm", "4.png", "", "", "{1AB842F8-65F2-454b-8EC6-1D7285FD0627}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8", "1", "DataFlows", "EARoot/EA2/EA8/EA424.htm", "4.png", "", "", "{52FB1184-60E2-4200-8938-5918CB1E0ECF}", "Package");
+tocTab[tocTab.length] = new Array("0.2.9", "1", "DataModel", "EARoot/EA2/EA9/EA1013.htm", "4.png", "", "", "{547F2725-0C10-411e-A4CE-63EE7501A52D}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10", "1", "CodeGen Example", "EARoot/EA2/EA10/EA1078.htm", "4.png", "", "", "{BA8A29F9-F8A6-4be2-B2B2-0EF0DF229E9E}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11", "1", "Deployment Model", "EARoot/EA2/EA11/EA1114.htm", "4.png", "", "", "{F4282B40-6CEC-4dae-9E5A-13B8601C3F41}", "Package");
+tocTab[tocTab.length] = new Array("0.2.12", "1", "ProjectDependency", "EARoot/EA2/EA12/EA1163.htm", "4.png", "", "", "{B515B891-E991-49a3-97B1-70B5ACCFF488}", "Package");
+tocTab[tocTab.length] = new Array("0.2.13", "1", "Use Case Model Tag", "EARoot/EA2/EA13/EA1234.htm", "4.png", "", "", "{9997BF3A-175A-4fa5-807B-850A8BD32418}", "Package");
+tocTab[tocTab.length] = new Array("0.2.14", "1", "Components", "EARoot/EA2/EA14/EA1261.htm", "4.png", "", "", "{676B9A79-0402-47c8-8397-8C89EA261AF9}", "Package");

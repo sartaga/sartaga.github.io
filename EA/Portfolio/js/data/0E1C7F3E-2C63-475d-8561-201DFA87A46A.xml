@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.6.1.6:1", "", "DI", "EARoot/EA6/EA1/EA6/EA2260.htm", "175.png", "2597", "0", "", "Logical diagram0","{17760D0E-2823-48e8-8571-36C080D5B0DC}");
+tocTab[tocTab.length] = new Array("0.6.1.6:2", "", "DIModule", "EARoot/EA6/EA1/EA6/EA2263.htm", "5.png", "E32514", "0", "", "Class0","{5E83602D-40D8-417f-97B0-0A8A36F545C9}");
+tocTab[tocTab.length] = new Array("0.6.1.6:3", "", "DIParameter", "EARoot/EA6/EA1/EA6/EA2264.htm", "5.png", "E32516", "0", "", "Class0","{B93D395C-5F30-4f0e-A5A2-02254E1AB402}");
+tocTab[tocTab.length] = new Array("0.6.1.6:4", "", "IDIModule", "EARoot/EA6/EA1/EA6/EA2265.htm", "8.png", "E32518", "0", "", "Interface0","{FF102703-D4C0-4bb1-B56C-137765525D90}");
+tocTab[tocTab.length] = new Array("0.6.1.6:5", "", "IInjectionManager", "EARoot/EA6/EA1/EA6/EA2266.htm", "8.png", "E32517", "0", "", "Interface0","{C3EDFEC3-E874-463c-B169-DB3FD2006A37}");
+tocTab[tocTab.length] = new Array("0.6.1.6:6", "", "IInjectionManagerFactory", "EARoot/EA6/EA1/EA6/EA2267.htm", "8.png", "E32520", "0", "", "Interface0","{E36E32B1-FC8E-4faf-BFE4-94FD244F1DA5}");
+tocTab[tocTab.length] = new Array("0.6.1.6:7", "", "InjectionManager", "EARoot/EA6/EA1/EA6/EA2268.htm", "5.png", "E32521", "0", "", "Class0","{7D21BC4F-2030-4230-AED0-B758BB434FB0}");
+tocTab[tocTab.length] = new Array("0.6.1.6:8", "", "InjectionManagerFactory", "EARoot/EA6/EA1/EA6/EA2269.htm", "5.png", "E32522", "0", "", "Class0","{0EE61BDA-B722-4776-9701-699A8F4FC722}");
+tocTab[tocTab.length] = new Array("0.6.1.6:9", "", "IUnityInjectionManager", "EARoot/EA6/EA1/EA6/EA2270.htm", "8.png", "E32515", "0", "", "Interface0","{5617C269-857C-45ee-884B-2F5B0FCAB5B4}");
+tocTab[tocTab.length] = new Array("0.6.1.6:10", "", "UnityInjectionManager", "EARoot/EA6/EA1/EA6/EA2271.htm", "5.png", "E32519", "0", "", "Class0","{6B18DE77-7F89-4300-8AFE-669B0E1FDBBE}");

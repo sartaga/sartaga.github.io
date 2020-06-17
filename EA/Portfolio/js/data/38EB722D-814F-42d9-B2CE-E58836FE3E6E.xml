@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.4:1", "", "Code", "EARoot/EA3/EA4/EA1607.htm", "176.png", "2520", "0", "", "Package diagram0","{7763A16A-44F6-421c-B1F8-8330964410B1}");
+tocTab[tocTab.length] = new Array("0.3.4.1", "1", "ServiceFabricReference", "EARoot/EA3/EA4/EA1/EA1616.htm", "4.png", "", "", "{0860BB7C-A573-490b-AE93-AD2F70C7B8EC}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.2", "1", "ServiceFabricExample", "EARoot/EA3/EA4/EA2/EA1771.htm", "4.png", "", "", "{D5B908A4-35AD-4e73-BBDD-07F452F058B6}", "Package");

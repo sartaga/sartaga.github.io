@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.4.1.6:1", "", "RestockRequestManager", "EARoot/EA3/EA4/EA1/EA6/EA1733.htm", "175.png", "2535", "0", "", "Logical diagram0","{ABF3E1AC-C0E3-4171-8E8D-9BFEE4621A74}");
+tocTab[tocTab.length] = new Array("0.3.4.1.6.1", "1", "Domain", "EARoot/EA3/EA4/EA1/EA6/EA1/EA1740.htm", "4.png", "", "", "{11318EA8-312C-4a0e-96BF-1D433DB5497E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.6.2", "1", "Service", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1744.htm", "4.png", "", "", "{8EA9F81B-1D42-4ce4-B544-732136398656}", "Package");

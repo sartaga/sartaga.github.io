@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.4.1.1:1", "", "Operations", "EARoot/EA4/EA1/EA1/EA1861.htm", "175.png", "2570", "0", "", "Logical diagram0","{7164692A-F762-4adb-9EBF-C8133B3C1B1E}");
+tocTab[tocTab.length] = new Array("0.4.1.1:2", "", "«table» ChangeHistory", "EARoot/EA4/EA1/EA1/EA1864.htm", "8C9E6706-8_table.png", "E31772", "0", "", "Class0","{711F20D0-51A7-4c34-983E-D30D3B0BC1D9}");
+tocTab[tocTab.length] = new Array("0.4.1.1:3", "", "«table» Currency", "EARoot/EA4/EA1/EA1/EA1865.htm", "8C9E6706-8_table.png", "E31768", "0", "", "Class0","{BB42636E-AAEE-465d-91F2-A1FEEA11E70B}");
+tocTab[tocTab.length] = new Array("0.4.1.1:4", "", "«table» CurrencyConversion", "EARoot/EA4/EA1/EA1/EA1866.htm", "8C9E6706-8_table.png", "E31773", "0", "", "Class0","{064714B3-C266-46ea-B268-C3B4994DF7D5}");
+tocTab[tocTab.length] = new Array("0.4.1.1:5", "", "«table» LocalTaxEntity", "EARoot/EA4/EA1/EA1/EA1867.htm", "8C9E6706-8_table.png", "E31769", "0", "", "Class0","{81E17DB1-F82A-4449-B5EA-C8CAB4EE7204}");
+tocTab[tocTab.length] = new Array("0.4.1.1:6", "", "«table» Location", "EARoot/EA4/EA1/EA1/EA1868.htm", "8C9E6706-8_table.png", "E31774", "0", "", "Class0","{4548D11B-1B70-461c-B5A7-D5DBE9D59F61}");
+tocTab[tocTab.length] = new Array("0.4.1.1:7", "", "«table» LocationType", "EARoot/EA4/EA1/EA1/EA1869.htm", "8C9E6706-8_table.png", "E31775", "0", "", "Class0","{6DE3DCD3-B016-4014-8E0A-88D7181BBE16}");
+tocTab[tocTab.length] = new Array("0.4.1.1:8", "", "«table» TranslationLookup", "EARoot/EA4/EA1/EA1/EA1871.htm", "8C9E6706-8_table.png", "E31770", "0", "", "Class0","{1D5C0ADF-FE66-40ee-AC87-322637C76C9C}");

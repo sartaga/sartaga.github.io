@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.2.8:1", "", "Wayside", "EARoot/EA9/EA2/EA8/EA2941.htm", "176.png", "2503", "0", "", "Package diagram0","{C63D65BD-88C1-4c79-8FD1-CFE6F6E43183}");
+tocTab[tocTab.length] = new Array("0.9.2.8:2", "", "220 MHz Radio", "EARoot/EA9/EA2/EA8/EA2944.htm", "191.png", "E31040", "0", "", "Device0","{CBADD613-BDA8-47f7-AAE2-BE339DF19608}");
+tocTab[tocTab.length] = new Array("0.9.2.8:3", "", "Cell/Fiber", "EARoot/EA9/EA2/EA8/EA2945.htm", "191.png", "E31037", "0", "", "Device0","{4493DA80-C9E8-4736-B236-F63FB8772A2A}");
+tocTab[tocTab.length] = new Array("0.9.2.8:4", "", "Wayside Interface Unit", "EARoot/EA9/EA2/EA8/EA2946.htm", "191.png", "E31039", "0", "", "Device0","{AD344BE7-B72A-4b65-9BF4-7AEDE7607511}");
+tocTab[tocTab.length] = new Array("0.9.2.8:5", "", "Wayside Messaging Server", "EARoot/EA9/EA2/EA8/EA2947.htm", "191.png", "E31038", "0", "", "Device0","{66D5C68A-BF20-45f8-998E-8C1B701441BD}");

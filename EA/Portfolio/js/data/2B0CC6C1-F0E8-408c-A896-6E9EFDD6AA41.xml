@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.3.1.6:1", "", "Storage", "EARoot/EA3/EA3/EA1/EA6/EA1598.htm", "175.png", "2517", "0", "", "Logical diagram0","{DC359BB9-DE49-4ab0-B73D-576B35A9C3B7}");
+tocTab[tocTab.length] = new Array("0.3.3.1.6:2", "", "StorageClient", "EARoot/EA3/EA3/EA1/EA6/EA1601.htm", "5.png", "E31246", "0", "", "Class0","{9C4ABE2E-12EC-4208-8911-B06E17B87BFF}");
+tocTab[tocTab.length] = new Array("0.3.3.1.6:3", "", "StorageIO", "EARoot/EA3/EA3/EA1/EA6/EA1602.htm", "5.png", "E31245", "0", "", "Class0","{4B45AC43-1664-4171-B865-10E2EA755AA0}");
+tocTab[tocTab.length] = new Array("0.3.3.1.6:4", "", "StorageReader", "EARoot/EA3/EA3/EA1/EA6/EA1603.htm", "5.png", "E31250", "0", "", "Class0","{AE22066C-EEF2-465f-8BAD-FE7AA9D3E198}");
+tocTab[tocTab.length] = new Array("0.3.3.1.6:5", "", "StorageSettings", "EARoot/EA3/EA3/EA1/EA6/EA1604.htm", "5.png", "E31249", "0", "", "Class0","{EBD6A406-C082-4a1a-8E23-616B84E13702}");
+tocTab[tocTab.length] = new Array("0.3.3.1.6:6", "", "StorageWriter", "EARoot/EA3/EA3/EA1/EA6/EA1605.htm", "5.png", "E31247", "0", "", "Class0","{577EAEDB-DD05-45e2-A06B-51D3192FFB61}");
