@@ -7,13 +7,15 @@ categories: development laptop
 Lenovo Legion 5 Ryzen 7 4800H L2 Cache 4MB, 32 GB Ram, GTX 1660 TI 6GB GDDR6
 Cinemark Score: 10852
 
-My previous dev machine was a desktop with an i7-67000K cpu and 32GB ram.
-it had a Cinemark Benchmark score of 5048, which is not really bad for a 5 year old machine.
-This laptop is twice as fast. I wish I could get my nvm ssd out of it into the laptop.
+My previous dev machine was a home built desktop with an i7-67000K cpu and 32GB ram.
+it had a Cinemark Benchmark score of 5048, which is not really bad for a 5 year old machine, still usable. This laptop is twice as fast. I wish I could get my nvm ssd out of the desktop into the laptop.
 
-My previous laptop was a Yogo with an i7-8550U and 16 GB ram. Cinemark Benchmark: 2389.
-I sent that machine to college with the youngest daughter. It runs circles around her windows surface pro.
-She'll be able to zoom with it at least.
+Sadly the laptop has a SATA drive for the 2nd HDD. Trying to decide if replacing the 5400 rpm HDD is worth replacing with a SATA SSD. That's a math problem.
+
+My previous laptop was a Lenova Yoga with an i7-8550U and 16 GB ram. Cinemark Benchmark: 2389. Not Usable for Dev. I sent that machine to college with the youngest daughter. It runs circles around her windows surface tablet. It's much sturdier than her previous laptop, so I hope survives better than her previous machines as she plays the Sims and watches Formula One racing and basically abuses it. She'll be able to zoom with it at least, and have a whole bunch of extra power supplies.
+
+The disadvantage of a "gaming" laptop is it comes with a 230W power brick and 2 hour battery life.
+It laughs at the 65W USB C power supplies. ME HUNGRY, it says. FEED ME MORE.
 
 Random Not Deep Thoughts:
 In other news, I'm designing a simple rule microservice. It's a hobby.
