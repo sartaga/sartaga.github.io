@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "New Development Laptop!"
+date:   2021-05-24 19:59:10 -0500
+categories: development laptop
+---
+Lenovo Legion 5 Ryzen 7 4800H L2 Cache 4MB, 32 GB Ram, GTX 1660 TI 6GB GDDR6
+Cinemark Score: 10852
+
+My previous dev machine was a desktop with an i7-67000K cpu and 32GB ram.
+it had a Cinemark Benchmark score of 5048, which is not really bad for a 5 year old machine.
+This laptop is twice as fast. I wish I could get my nvm ssd out of it into the laptop.
+
+My previous laptop was a Yogo with an i7-8550U and 16 GB ram. Cinemark Benchmark: 2389.
+I sent that machine to college with the youngest daughter. It runs circles around her windows surface pro.
+She'll be able to zoom with it at least.
+
+Random Not Deep Thoughts:
+In other news, I'm designing a simple rule microservice. It's a hobby.
+Designing a dev ops process during the day.
+
+Evaluating the AWS Dev Ops offerings, comparing them to Azure DevOps.
+I have post traumatic stress from Azure DevOps, but so far, I can't recommend against it.
+
+Note: If the only true comments you can make in a pull request involve punctuation in comments and
+whitespace, all your colleagues hate you. 
+
+I'm using Visual Studio Code right now to force myself to like it. Thought about using Sublime, 
+but decided not to swim upstream all the time.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
