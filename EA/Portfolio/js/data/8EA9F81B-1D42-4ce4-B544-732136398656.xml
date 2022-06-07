@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.4.1.6.2:1", "", "Service", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1742.htm", "175.png", "2537", "0", "", "Logical diagram0","{F2C67ACE-D5E7-4783-988C-AA73B5470E02}");
-tocTab[tocTab.length] = new Array("0.3.4.1.6.2:2", "", "Program", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1745.htm", "5.png", "E31412", "0", "", "Class0","{4816583F-69E2-48a7-9970-DFA87D1BA92A}");
-tocTab[tocTab.length] = new Array("0.3.4.1.6.2:3", "", "RestockRequestManagerService", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1746.htm", "5.png", "E31413", "0", "", "Class0","{BCE7E3FA-0E0E-4b1f-B361-D409F80D377B}");
-tocTab[tocTab.length] = new Array("0.3.4.1.6.2:4", "", "ServiceEventSource", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1747.htm", "5.png", "E31414", "0", "", "Class0","{7255F4BF-070A-4614-B71E-E1BB9C615E10}");
-tocTab[tocTab.length] = new Array("0.3.4.1.6.2:5", "", "Keywords", "EARoot/EA3/EA4/EA1/EA6/EA2/EA1748.htm", "5.png", "E31415", "E31414", "", "Class0","{F8F75F6B-9C0C-48ec-9B92-173D7D6653C5}");

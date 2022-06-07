@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.9.2.7:1", "", "Track DB Preperation", "EARoot/EA9/EA2/EA7/EA2934.htm", "176.png", "2502", "0", "", "Package diagram0","{4A068D70-66D3-4d09-8D9A-486AB3E0BF44}");
-tocTab[tocTab.length] = new Array("0.9.2.7:2", "", "EGIS", "EARoot/EA9/EA2/EA7/EA2937.htm", "9.png", "E31036", "0", "", "Node0","{BB2ADC75-3A8D-4c58-916C-71DAEA5E2D7C}");
-tocTab[tocTab.length] = new Array("0.9.2.7:3", "", "GIS Data Collection", "EARoot/EA9/EA2/EA7/EA2938.htm", "9.png", "E31035", "0", "", "Node0","{9DA02FE6-EBF6-4c27-87C9-82D03BA57C0D}");
-tocTab[tocTab.length] = new Array("0.9.2.7:4", "", "Key Server Interface", "EARoot/EA9/EA2/EA7/EA2939.htm", "8.png", "E31034", "0", "", "Interface0","{A6F5FFF2-A1BF-4bf8-8D22-17AEE9A6A625}");
-tocTab[tocTab.length] = new Array("0.9.2.7:5", "", "Webtrax", "EARoot/EA9/EA2/EA7/EA2940.htm", "9.png", "E31033", "0", "", "Node0","{7DE3264B-8D06-4d8d-ABE9-60FC660E327A}");

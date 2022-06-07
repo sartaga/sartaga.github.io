@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Back to Jekyll"
+date:   2022-03-08 19:59:10 -0500
+categories: Jekyll
+permalink: /posts/2022/03/08/
+---
+Trying to figure out the structure

@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.3.1.5:1", "", "ServiceBus", "EARoot/EA3/EA3/EA1/EA5/EA1585.htm", "175.png", "2516", "0", "", "Logical diagram0","{75157D25-24C0-4aff-B5FF-5FB494567CAA}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:2", "", "MessageHandler", "EARoot/EA3/EA3/EA1/EA5/EA1591.htm", "5.png", "E31242", "0", "", "Class0","{631D495B-F3BE-40a4-84B5-784A9E5AA40B}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:3", "", "MessageSettings", "EARoot/EA3/EA3/EA1/EA5/EA1592.htm", "5.png", "E31237", "0", "", "Class0","{87600D85-4EF7-4d79-A189-177D5DBCFE87}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:4", "", "QueueReader", "EARoot/EA3/EA3/EA1/EA5/EA1593.htm", "5.png", "E31240", "0", "", "Class0","{A2774351-0C1D-40d8-9210-6A9632C65C7F}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:5", "", "QueueWriter", "EARoot/EA3/EA3/EA1/EA5/EA1594.htm", "5.png", "E31243", "0", "", "Class0","{ECE98429-7E38-4509-8350-AE48912AA4AF}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:6", "", "ServiceBusMessage", "EARoot/EA3/EA3/EA1/EA5/EA1595.htm", "5.png", "E31241", "0", "", "Class0","{CBCFBC80-2C85-464b-BBBB-A5E8E063C8F5}");
-tocTab[tocTab.length] = new Array("0.3.3.1.5:7", "", "ServiceBusQueue", "EARoot/EA3/EA3/EA1/EA5/EA1596.htm", "5.png", "E31236", "0", "", "Class0","{933B7C57-C18D-449d-B40B-8B495D35C790}");

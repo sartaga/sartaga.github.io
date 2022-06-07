@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.6.1.4:1", "", "Database", "EARoot/EA6/EA1/EA4/EA2214.htm", "175.png", "2595", "0", "", "Logical diagram0","{AF6C48F7-C4D3-4ed6-9D26-5076B8148201}");
-tocTab[tocTab.length] = new Array("0.6.1.4:2", "", "CommandExecutor", "EARoot/EA6/EA1/EA4/EA2217.htm", "5.png", "E32480", "0", "", "Class0","{458B2E3B-06EA-4a66-9EC0-8F394243EE66}");
-tocTab[tocTab.length] = new Array("0.6.1.4:3", "", "Connection", "EARoot/EA6/EA1/EA4/EA2218.htm", "5.png", "E32476", "0", "", "Class0","{DCC89EE3-46B7-4a55-88C2-4A06BC052041}");
-tocTab[tocTab.length] = new Array("0.6.1.4:4", "", "ICommandExecutor", "EARoot/EA6/EA1/EA4/EA2219.htm", "8.png", "E32474", "0", "", "Interface0","{B96AE230-9782-4600-8AB6-ED2A042A7CF7}");
-tocTab[tocTab.length] = new Array("0.6.1.4:5", "", "IConnection", "EARoot/EA6/EA1/EA4/EA2220.htm", "8.png", "E32479", "0", "", "Interface0","{DD950A6E-C201-4b0c-9748-2EFD91D59552}");
-tocTab[tocTab.length] = new Array("0.6.1.4:6", "", "IRecord", "EARoot/EA6/EA1/EA4/EA2221.htm", "8.png", "E32481", "0", "", "Interface0","{6E57FE71-77A5-45ca-A574-C9B1860D4F57}");
-tocTab[tocTab.length] = new Array("0.6.1.4:7", "", "ITable", "EARoot/EA6/EA1/EA4/EA2222.htm", "8.png", "E32478", "0", "", "Interface0","{0D15374E-A49A-436c-9D6C-B0AABC037168}");
-tocTab[tocTab.length] = new Array("0.6.1.4:8", "", "Record", "EARoot/EA6/EA1/EA4/EA2223.htm", "5.png", "E32475", "0", "", "Class0","{2BEC992D-F8DE-49c1-8B02-EA3AE31943F1}");
-tocTab[tocTab.length] = new Array("0.6.1.4:9", "", "Table", "EARoot/EA6/EA1/EA4/EA2224.htm", "5.png", "E32477", "0", "", "Class0","{7D44435E-4309-49ef-A808-D5F7F4458FB6}");

@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:1", "", "Every10Min", "EARoot/EA2/EA8/EA1/EA2/EA2/EA760.htm", "189.png", "2612", "0", "", "Analysis diagram0","{FCBACA2A-C864-4195-BAC3-7E595ECDFED4}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:2", "", "«DFD_Process» Projectlibary 10 min", "EARoot/EA2/EA8/EA1/EA2/EA2/EA764.htm", "AAB1EBBD-8_DFD_Process.png", "E33256", "0", "", "Activity0","{64EF92D7-B4F9-4bbc-BDD9-8DCC186E7312}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:3", "", "ProjectLibrary", "EARoot/EA2/EA8/EA1/EA2/EA2/EA765.htm", "136.png", "E33249", "0", "", "MessageEndpoint0","{BF97AE4D-D691-4b42-AD8E-D75CAF3DE831}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:4", "", "«DFD_DataStore» ProjectLibrary", "EARoot/EA2/EA8/EA1/EA2/EA2/EA766.htm", "AAB1EBBD-8_DFD_DataStore.png", "E33251", "0", "", "Class0","{21868943-72DA-4ddc-A228-3E0AF17B9D94}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:5", "", "«DFD_External» Scheduler", "EARoot/EA2/EA8/EA1/EA2/EA2/EA767.htm", "AAB1EBBD-8_DFD_External.png", "E33255", "0", "", "Class0","{6170A43C-B23F-4993-A904-5C4B6DA1F6C2}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:6", "", "SSIS", "EARoot/EA2/EA8/EA1/EA2/EA2/EA768.htm", "136.png", "E33253", "0", "", "MessageEndpoint0","{BD916A5B-0E97-4e5b-B1EB-D74A78C06DEC}");
-tocTab[tocTab.length] = new Array("0.2.8.1.2.2:7", "", "«DFD_DataStore» SurveySnapshot", "EARoot/EA2/EA8/EA1/EA2/EA2/EA769.htm", "AAB1EBBD-8_DFD_DataStore.png", "E33250", "0", "", "Class0","{3F6AE7E3-3FFD-4edc-9987-85AAC9578C47}");

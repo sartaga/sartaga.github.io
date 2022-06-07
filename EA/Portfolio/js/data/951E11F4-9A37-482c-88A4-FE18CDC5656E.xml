@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.3.1.3:1", "", "Programs", "EARoot/EA3/EA3/EA1/EA3/EA1487.htm", "175.png", "2509", "0", "", "Logical diagram0","{2DC8382B-A9A7-4805-A808-F83809D9D22F}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:2", "", "AzureProgram", "EARoot/EA3/EA3/EA1/EA3/EA1490.htm", "5.png", "E31156", "0", "", "Class0","{CE455851-D9E0-4379-A9D5-D878FC663732}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:3", "", "JobProgram", "EARoot/EA3/EA3/EA1/EA3/EA1491.htm", "5.png", "E31154", "0", "", "Class0","{ECACBE3F-F22B-4542-A876-C05C9FB3F8D2}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:4", "", "MockJob", "EARoot/EA3/EA3/EA1/EA3/EA1492.htm", "5.png", "E31155", "0", "", "Class0","{CB73838A-4482-40be-A2C7-06882E584567}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:5", "", "RedisProgram", "EARoot/EA3/EA3/EA1/EA3/EA1493.htm", "5.png", "E31157", "0", "", "Class0","{BE5AEBF9-197D-4568-8676-8B13B86002F8}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:6", "", "ServiceBusProgram", "EARoot/EA3/EA3/EA1/EA3/EA1494.htm", "5.png", "E31152", "0", "", "Class0","{35BE7BDA-F118-4eed-BF7D-009E05BBAF73}");
-tocTab[tocTab.length] = new Array("0.3.3.1.3:7", "", "StorageProgram", "EARoot/EA3/EA3/EA1/EA3/EA1495.htm", "5.png", "E31151", "0", "", "Class0","{1B0E3D41-EDBE-47a1-AE48-CC5E7B6F1247}");

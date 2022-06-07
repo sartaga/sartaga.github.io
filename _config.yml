@@ -32,6 +32,20 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#collections:
+#  skills:
+#    output: true
+#    permalink: /skills/:title.html
+#  about:
+#    output: true
+#    permalink: /about/:title.html
+#  pages:
+#    output: true
+#    permalink: /pages/:title.html 
+    
+include: ['_pages']
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +65,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+

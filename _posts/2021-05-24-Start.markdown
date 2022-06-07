@@ -3,6 +3,7 @@ layout: post
 title:  "New Development Laptop!"
 date:   2021-05-24 19:59:10 -0500
 categories: development laptop
+permalink: /posts/2021/05/24/
 ---
 Lenovo Legion 5 Ryzen 7 4800H L2 Cache 4MB, 32 GB Ram, GTX 1660 TI 6GB GDDR6
 Cinemark Score: 10852

@@ -9,7 +9,7 @@ I'm a software architect in Kansas City, with current interests in Azure, C#, .N
 
 [Skills](/skills/)
 
-[My Enterprise Architect example site](https://sartaga.github.io/EA/Portfolio/index.htm)
+[KnowledgeBase](/KB/)
 
 Current Favorite Toolset: Enterprise Architect, Sublime, Azure Data Studio, Azure DevOps, Git, GitKraken, Visual Studio, ConEmu, PostMan, Swagger.
 

@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.4.2.4:1", "", "WebService", "EARoot/EA3/EA4/EA2/EA4/EA1829.htm", "175.png", "2549", "0", "", "Logical diagram0","{6B8D1476-11D3-4d71-945D-872383C58D00}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:2", "", "ConfigSettings", "EARoot/EA3/EA4/EA2/EA4/EA1833.htm", "5.png", "E31465", "0", "", "Class0","{D10A2513-58E5-4f0c-A4AB-93B6A71DA555}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:3", "", "CountViewModel", "EARoot/EA3/EA4/EA2/EA4/EA1835.htm", "5.png", "E31469", "0", "", "Class0","{FC2C2DF0-6C1F-4234-93D6-2422CE17C45F}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:4", "", "Program", "EARoot/EA3/EA4/EA2/EA4/EA1836.htm", "5.png", "E31468", "0", "", "Class0","{A1293DC3-952C-4736-B24C-B34BF53A9AC6}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:5", "", "ServiceEventSource", "EARoot/EA3/EA4/EA2/EA4/EA1837.htm", "5.png", "E31466", "0", "", "Class0","{C887EC8F-8E8E-4ca0-A4AF-066407C829FE}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:6", "", "Startup", "EARoot/EA3/EA4/EA2/EA4/EA1838.htm", "5.png", "E31463", "0", "", "Class0","{228D702D-FB77-4b82-996D-5B689F7DB9C2}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:7", "", "WebService", "EARoot/EA3/EA4/EA2/EA4/EA1839.htm", "5.png", "E31467", "0", "", "Class0","{98DB43D4-67E8-481d-980E-5B12E94E31B3}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4:8", "", "Keywords", "EARoot/EA3/EA4/EA2/EA4/EA1840.htm", "5.png", "E31464", "E31466", "", "Class0","{C39E1197-4AEB-4f39-9BCB-321ABD200C64}");
-tocTab[tocTab.length] = new Array("0.3.4.2.4.1", "1", "Controllers", "EARoot/EA3/EA4/EA2/EA4/EA1/EA1843.htm", "4.png", "", "", "{26D79922-D87C-4fd4-8ABE-666AE09E07FC}", "Package");
